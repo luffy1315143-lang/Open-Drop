@@ -1,0 +1,22 @@
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+.externalNativeBuild/
+.cxx/
+
+# Local debugging logs
+file-picker-log.txt
+
+# Local backup files
+*.backup
+*.bak
+*.backup-*
+*.working-backup
+*.before-*
+*.pre-redesign
+
+# Timestamped backup files
+*.bak.*
